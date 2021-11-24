@@ -1,3 +1,6 @@
+# Docker best practice
+# https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
 #Grab the latest alpine image
 FROM alpine:latest
 
